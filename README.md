@@ -12,3 +12,5 @@ In mapping/ExpoController.py
 2. create a docker network for both containers to talk. Or use the default one. 
 
 Second step: Explore UE4 pixel streaming. 
+
+Also explore the UE4 package thingy.
